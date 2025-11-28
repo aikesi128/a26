@@ -1,7 +1,7 @@
 #theme: jekyll-theme-minimal # For supported themes  如果设置了remote_theme, 那么当前这行不会生效
-theme: minimal-mistakes-jekyll # For supported themes  如果设置了remote_theme, 那么当前这行不会生效
+# theme: minimal-mistakes-jekyll # For supported themes  如果设置了remote_theme, 那么当前这行不会生效
 #remote_theme: just-the-docs/just-the-docs # For other Jekyll themes hosted on GitHu
-remote_theme: fennecdjay/bookish
+remote_theme: fennecdjay/bookish@master
 # just-the-docs/just-the-docs@v0.6.0
 url: "https://aikesi128.github.io" # Your site's base URL
 baseurl: "/a26" # If your site is in a subfolder of your username.github.io
