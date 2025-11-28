@@ -1,11 +1,12 @@
 #theme: jekyll-theme-minimal # For supported themes  如果设置了remote_theme, 那么当前这行不会生效
 #theme: minimal-mistakes-jekyll # For supported themes  如果设置了remote_theme, 那么当前这行不会生效
-#remote_theme: just-the-docs/just-the-docs # For other Jekyll themes hosted on GitHu
+remote_theme: just-the-docs/just-the-docs # For other Jekyll themes hosted on GitHu
 
 #remote_theme: pages-themes/hacker@v0.2.0
 #remote_theme: pages-themes/primer
 #remote_theme: pages-themes/midnight
-remote_theme: mmistakes/minimal-mistakes@4.27.3
+
+#https://jekyllthemes.io/free  主题商店有多款主题
 
 
 
