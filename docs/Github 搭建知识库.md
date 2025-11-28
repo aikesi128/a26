@@ -1,6 +1,6 @@
 
 
-# 在github设置自己的知识库
+## Github 搭建知识库
 
 1. 在github新建一个仓库, 设置为public类型.
 
