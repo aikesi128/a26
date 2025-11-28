@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal # For supported themes
 remote_theme: just-the-docs/just-the-docs # For other Jekyll themes hosted on GitHu
 url: "https://aikesi128.github.io" # Your site's base URL
-baseurl: "/md" # If your site is in a subfolder of your username.github.io
+baseurl: "/a26" # If your site is in a subfolder of your username.github.io
