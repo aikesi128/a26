@@ -8,8 +8,11 @@ remote_theme: just-the-docs/just-the-docs # For other Jekyll themes hosted on Gi
 
 #https://jekyllthemes.io/free  主题商店有多款主题
 
-
+heading_anchors: true
 
 # just-the-docs/just-the-docs@v0.6.0
 url: "https://aikesi128.github.io" # Your site's base URL
 baseurl: "/a26" # If your site is in a subfolder of your username.github.io
+
+# 说明文档: https://just-the-docs.com/docs/configuration/
+color_scheme: dark
