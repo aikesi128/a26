@@ -4,8 +4,7 @@ title: CoreDataWithCloud
 
 
 
-
-
+TOC
 {:toc}
 
 
