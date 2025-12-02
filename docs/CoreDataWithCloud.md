@@ -5,7 +5,6 @@ title: CoreDataWithCloud
 
 
 1. TOC
-
 {:toc}
 
 
