@@ -1,3 +1,7 @@
+---
+title: CoreDataWithCloud
+---
+
 [TOC]
 
 
