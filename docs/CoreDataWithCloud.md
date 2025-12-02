@@ -4,24 +4,25 @@ title: CoreDataWithCloud
 
 
 
-TOC
+1.TOC
+
 {:toc}
 
 
 
-### 1. CoreDataWithCloud
+### CoreDataWithCloud
 
 Coredata就是一个数据库,  一套数据本地持久化的解决方案. 可以建表, 进行增删改查等操作, 但是一旦app卸载数据将无法找回.
 
 CoreDataWithCloud相当是加强版本, 数据可以同步到云端, 在多设备之间同步, 只要登录同一个Apple账号, 就可以同步数据, 可以当做一个用户的私有服务器来使用.
 
-### 2. 如何配置
+### 如何配置
 
 - 创建项目的时候不要勾选Host in CloudKit, 创建完成后在Capability中增加CloudKit的能力. 勾选Services下的CloudKit. 并创建新的container, 格式:iCloud+bundleID
 - 初始化Coredata的时候将 `NSPersistentContainer` 替换为 `NSPersistentCloudKitContainer`, 这样数据就会自动同步到用户的iCloud中.
 - 其他使用就和Coredata一样.
 
-### 3. 不同状态对数据同步整体流程的影响
+### 不同状态对数据同步整体流程的影响
 
 在iCloud中, 不同的设置会对数据是否可以顺利同步到iCloud中是有影响的.
 
@@ -71,7 +72,7 @@ A5说明:
 
 
 
-### 4. 监听数据变化
+### 监听数据变化
 
 - 获取账户状态,  这个很重要, 直接影响是否可以顺利同步数据
 
