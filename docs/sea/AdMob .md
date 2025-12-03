@@ -7,8 +7,7 @@ navi_order: 100
 
 
 1. TOC
-
-   {:toc}
+{:toc}
 
    
 
