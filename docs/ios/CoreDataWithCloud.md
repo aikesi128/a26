@@ -1,7 +1,6 @@
 ---
-title: Github 测试l2-1
-navi_order: 0
-parent: Github 测试l2
+title: CoreDataWithCloud 
+parent: ios
 ---
 
 
