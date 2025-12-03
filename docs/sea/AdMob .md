@@ -1,7 +1,7 @@
 ---
 title: AdMob
 parent: sea
-navi_order: 100
+navi_order: 2
 ---
 
 
