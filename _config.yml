@@ -14,5 +14,11 @@ heading_anchors: true
 url: "https://aikesi128.github.io" # Your site's base URL
 baseurl: "/a26" # If your site is in a subfolder of your username.github.io
 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+  - jekyll-sitemap
+  
 # 说明文档: https://just-the-docs.com/docs/configuration/
 # color_scheme: dark
