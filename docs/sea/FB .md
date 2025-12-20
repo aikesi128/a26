@@ -31,5 +31,21 @@ nav_order: 1
 
 
 
+## 常见问题处理
+
+### 大陆手机号码无法收到FB的验证码
+
+明明已经发送验证码, 手机号码都填写正确就是无法收到验证码, 因为没有开通  **国际短信接收服务功能**, 只要发送 KTGJDX 到对应的运营商号码, 按照操作提示就可以收到了, 亲测有效.
+
+<img src="https://cdn.jsdelivr.net/gh/aikesi128/img_bed@master/25-11-28/xfjWxJ_WeChat8df3073ec9a5e6edb1fddea502559e20.jpg" alt="WeChat8df3073ec9a5e6edb1fddea502559e20" style="zoom:33%;" />
+
+- 因为是卡1 收不到短信,  发送的时候默认用卡2发送了一条, 提示已经开通
+
+- 再次用卡1发送KTGJDX到运营商, 提示确定回Y, 发送Y后, 提示成功
+
+- 再次在fb网页中点击发送验证码, 卡1就可以收到了
+
+  <img src="https://cdn.jsdelivr.net/gh/aikesi128/img_bed@master/25-11-28/ij4vRm_WechatIMG25.jpg" alt="WechatIMG25" style="zoom: 50%;" />
+
 ## 学习
 
